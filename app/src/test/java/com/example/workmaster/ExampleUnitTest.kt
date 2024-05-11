@@ -1,4 +1,4 @@
-package com.example.workmaster
+package com.coding.meet.workmaster
 
 import org.junit.Test
 

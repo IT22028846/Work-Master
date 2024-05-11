@@ -6,9 +6,9 @@ import androidx.lifecycle.MutableLiveData
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.coding.meet.todo_app.databinding.ViewTaskGridLayoutBinding
-import com.coding.meet.todo_app.databinding.ViewTaskListLayoutBinding
-import com.coding.meet.todo_app.models.Task
+import com.coding.meet.workmaster.databinding.ViewTaskGridLayoutBinding
+import com.coding.meet.workmaster.databinding.ViewTaskListLayoutBinding
+import com.coding.meet.workmaster.models.Task
 import java.text.SimpleDateFormat
 import java.util.Locale
 
